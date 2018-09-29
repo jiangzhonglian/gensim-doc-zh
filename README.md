@@ -95,7 +95,7 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 >>> index = similarities.SparseMatrixSimilarity(tfidf[corpus], num_features=12)
 ```
 
-并查询我们的查询向量`<span class="pre">vec</span>`与语料库中每个文档的相似性：
+并查询我们的查询向量`vec`与语料库中每个文档的相似性：
 
 ```
 >>> sims = index[tfidf[vec]]
