@@ -99,4 +99,4 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 
 ---
 
-| [[1]](https://radimrehurek.com/gensim/tutorial.html#id1) | 这与 [Deerwester等人](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf) 使用的语料库相同[。](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)[（1990）：通过潜在语义分析进行索引](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)，表2。
+[[1]](https://radimrehurek.com/gensim/tutorial.html#id1) 这与 [Deerwester等人](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf) 使用的语料库相同[。](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)[（1990）：通过潜在语义分析进行索引](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)，表2。
