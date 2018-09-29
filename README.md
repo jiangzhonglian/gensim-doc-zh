@@ -64,7 +64,7 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 >>>           [(8, 1.0), (10, 1.0), (11, 1.0)]]
 ```
 
-在gensim中，*语料库*只是一个对象，当迭代时，返回其表示为稀疏向量的文档。在这种情况下，我们使用元组列表的列表。如果您不熟悉[矢量空间模型](https://en.wikipedia.org/wiki/Vector_space_model)，我们将在下一个关于[Corpora和Vector Spaces的](https://radimrehurek.com/gensim/tut1.html)教程中弥合**原始字符串**，**语料库**和**稀疏矢量**之间的差距。[](https://radimrehurek.com/gensim/tut1.html)
+在gensim中，*语料库*只是一个对象，当迭代时，返回其表示为稀疏向量的文档。在这种情况下，我们使用元组列表的列表。如果您不熟悉[向量空间模型](https://en.wikipedia.org/wiki/Vector_space_model)，我们将在下一个关于[Corpora和Vector Spaces的](https://radimrehurek.com/gensim/tut1.html)教程中弥合**原始字符串**，**语料库**和**稀疏向量**之间的差距。[](https://radimrehurek.com/gensim/tut1.html)
 
 如果您熟悉向量空间模型，您可能会知道解析文档并将其转换为向量的方式会对任何后续应用程序的质量产生重大影响。
 
